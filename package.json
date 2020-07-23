@@ -1,0 +1,16 @@
+{
+  "name": "n-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^7.16.1",
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
